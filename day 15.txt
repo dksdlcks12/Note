@@ -1,0 +1,22 @@
+﻿인터페이스 - 상수와 추상메소드로만 이루어진 것
+컬렉션 프레임워크
+    - 프레임워크 = 표준화된 프로그램방식
+    - 컬렉션
+        - List(컬렉션 상속)
+        - Set(컬렉션 상속)
+        - Map(비상속)
+    - List
+        - 순서가 있다.(ex. 선열리스트, 연결리스트, 스택, 큐, 데큐)
+        - 데이터의 중복을 허용한다.
+        - 구현 클래스는 ArrayList, LinkedList, Stack, Vector, ETC.
+    - Set
+        - 순서가 없다(ex. 트리)
+        - 데이터의 중복을 허용하지 않음
+        - 중복확인은 equals()를 사용
+        - 구현 클래스는 HashSet, TreeSet, ETC.
+    - Map
+        - key(객체)와 value(객체) 두가지 값을 저장
+        - key는 중복 불가
+        - value는 중복가능
+        - 구현 클래스는 HashMap, TreeMap, ETC.
+    
