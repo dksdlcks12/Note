@@ -1,0 +1,5 @@
+JDK
+JRE
+STS
+TOMCAT 9
+순으로 설치
