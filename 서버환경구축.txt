@@ -1,5 +1,8 @@
-JDK
+﻿JDK
 JRE
 STS
 TOMCAT 9
-������ ��ġ
+순으로 설치
+
+STS ini파일 open밑에 -vm \n java bin경로설정
+tomcat
